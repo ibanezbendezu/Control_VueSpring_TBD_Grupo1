@@ -1,0 +1,37 @@
+[
+  {
+    "name": "Emergency-addEmergency",
+    "path": "/Emergency/addEmergency",
+    "component": "D:\\\\Usach\\\\Sexto Semestre\\\\TBD\\\\Lab\\\\Entrega1\\\\Laboratorio1-fe-Grupo1\\\\pages\\\\Emergency\\\\addEmergency.vue",
+    "chunkName": "pages/Emergency/addEmergency",
+    "_name": "_e493d2e8"
+  },
+  {
+    "name": "Emergency-deleteEmergency",
+    "path": "/Emergency/deleteEmergency",
+    "component": "D:\\\\Usach\\\\Sexto Semestre\\\\TBD\\\\Lab\\\\Entrega1\\\\Laboratorio1-fe-Grupo1\\\\pages\\\\Emergency\\\\deleteEmergency.vue",
+    "chunkName": "pages/Emergency/deleteEmergency",
+    "_name": "_5c29f18c"
+  },
+  {
+    "name": "Emergency-getEmergency",
+    "path": "/Emergency/getEmergency",
+    "component": "D:\\\\Usach\\\\Sexto Semestre\\\\TBD\\\\Lab\\\\Entrega1\\\\Laboratorio1-fe-Grupo1\\\\pages\\\\Emergency\\\\getEmergency.vue",
+    "chunkName": "pages/Emergency/getEmergency",
+    "_name": "_4ed94df7"
+  },
+  {
+    "name": "Emergency-modifyEmergency",
+    "path": "/Emergency/modifyEmergency",
+    "component": "D:\\\\Usach\\\\Sexto Semestre\\\\TBD\\\\Lab\\\\Entrega1\\\\Laboratorio1-fe-Grupo1\\\\pages\\\\Emergency\\\\modifyEmergency.vue",
+    "chunkName": "pages/Emergency/modifyEmergency",
+    "_name": "_76e7c48b"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "D:\\\\Usach\\\\Sexto Semestre\\\\TBD\\\\Lab\\\\Entrega1\\\\Laboratorio1-fe-Grupo1\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_a8805706"
+  }
+]
